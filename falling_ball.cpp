@@ -1,5 +1,5 @@
 #include <iostream>
-#include "a2_q2_functions.h"
+#include "functions.h"
 
 int main() {
 	distance_calculator();
